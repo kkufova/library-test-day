@@ -1,4 +1,4 @@
-Repository Init Content
+Red Project
 =======================
 
-Your project description here.
+An example project with 500 assets for the Library Test Day.
