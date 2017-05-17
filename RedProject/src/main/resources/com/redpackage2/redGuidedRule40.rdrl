@@ -1,0 +1,9 @@
+package com.redpackage2;
+
+import java.lang.Number;
+
+rule "redGuidedRule40"
+	dialect "mvel"
+	when
+	then
+end
